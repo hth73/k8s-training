@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+#set -e
 
 CONTEXT=$(kubectl config current-context)
 
